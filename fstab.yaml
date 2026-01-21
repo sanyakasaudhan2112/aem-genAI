@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p24152-e1275188.adobeaemcloud.com/bin/franklin.delivery/sanyakasaudhan2112/genAIEDS/main"
+    url: "https://author-p24152-e1275188.adobeaemcloud.com/bin/franklin.delivery/sanyakasaudhan2112/aem-genAI/main"
     type: "markup"
     suffix: ".html"
