@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-genAI/:/",
-    "/content/aem-genAI/configuration:/.helix/config.json",
-    "/content/aem-genAI/metadata:/metadata.json"
+    "/content/genAIEDS/:/",
+    "/content/genAIEDS/configuration:/.helix/config.json",
+    "/content/genAIEDS/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-genAI/"
+    "/content/genAIEDS/"
   ]
 }
